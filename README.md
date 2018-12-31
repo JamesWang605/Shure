@@ -1,37 +1,12 @@
 ## Shure
 
-You can use the [editor on GitHub](https://github.com/JamesWang605/Shure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**_Shure_** is an American audio products corporation founded in 1925 by Sidney N. Shure. Shure have become a producer of consumer and professional audio-electronics manufacturer of microphones, wireless microphone systems, phonograph cartridges, discussion systems, mixers, and digital signal processing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   
+![Shure](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ZUrJy8PUrolkrXhlu8HcaLd7SagcO9dIBkUdiLhp0gU5uk3)
 
-### Markdown
+### Headphone Products
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Though headphones and earbuds are not **_Shure_**'s major field, earbuds produced by Shure are still famous around the world with their great performance and highlights on singer's voice.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamesWang605/Shure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="http://www.proaudiosystems.co.uk/media/catalog/product/cache/1/image/1600x/9df78eab33525d08d6e5fb8d27136e95/s/h/shure-se846-cl-sound-isolating-headphones-with-quad-hidef-microdrivers-5ce.jpg" width="40%" height="40%"> <img src="https://www.moon-audio.com/media/catalog/product/cache/2077a6a6c9df7ce6c59323b668160bea/s/e/se535ltd_4.jpg" width="55%" height="55%"> 
