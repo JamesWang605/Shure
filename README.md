@@ -13,8 +13,10 @@ Though headphones and earbuds are not **_Shure_**'s major field, earbuds produce
 
 ## My Experience
 
-I visited Shure factory on Dec. 25, 2018. I saw the production process and listened some earbuds products of Shure. surprisingly, most of the Assembly parts including welding and packaging are all done by workers instead of machines. I am surprised that these repeated action are not finished by machine, I thought that hiring workers are much more expensive than the cost of designing and building machines for earbuds assembly.
+I visited Shure factory on Dec. 25, 2018. I saw the production process and listened some earbuds products of Shure. surprisingly, most of the Assembly parts including welding and packaging are all done by workers instead of machines. I am surprised that these repeated action are not finished by machine, I thought that hiring workers are much more expensive than the cost of designing and building machines for earbuds assembly. As one of the workers there said, because the machine can't ensure the speed of production and usually make a lot of mistakes which need workers to keep their eyes on them. This make machine a expensive and an inefficient choice.
 
 # Assembly of An Earbud
 
 The assembly process of earbuds is very easy, it only take about five steps. First, weld the sound unit to the port that connect the wire. Second, dispense adhensives to the shell and fix the sound unit location inside the shell. Third, dispense the shell and put other half of the shell on. Forth, connect wire and check response frequense. In the end, package the product.
+
+   <img src="http://thyrsi.com/t6/647/1546345243x2890211732.jpg" width="30%" height="30%">    <img src="http://thyrsi.com/t6/647/1546345603x2890211732.jpg" width="30%" height="30%">  <img src="http://thyrsi.com/t6/647/1546345209x2890211732.jpg" width="30%" height="30%">  
