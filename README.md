@@ -17,6 +17,16 @@ I visited Shure factory on Dec. 25, 2018. I saw the production process and liste
 
 # Assembly of An Earbud
 
-The assembly process of earbuds is very easy, it only take about five steps. First, weld the sound unit to the port that connect the wire. Second, dispense adhensives to the shell and fix the sound unit location inside the shell. Third, dispense the shell and put other half of the shell on. Forth, connect wire and check response frequense. In the end, package the product.
+The assembly process of earbuds is very easy, it only take about five steps. 
+
+*First, weld the sound unit to the port that connect the wire.
+
+*Second, dispense adhensives to the shell and fix the sound unit location inside the shell. 
+
+*Third, dispense the shell and put other half of the shell on. 
+
+*Forth, connect wire and check response frequense. 
+
+*In the end, package the product.
 
    <img src="http://thyrsi.com/t6/647/1546345243x2890211732.jpg" width="30%" height="30%">    <img src="http://thyrsi.com/t6/647/1546345603x2890211732.jpg" width="30%" height="30%">  <img src="http://thyrsi.com/t6/647/1546345209x2890211732.jpg" width="30%" height="30%">  
